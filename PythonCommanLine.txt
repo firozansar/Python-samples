@@ -1,0 +1,6 @@
+A widely used way to run Python code is through an interactive session. To start a Python interactive session, just open a command-line or terminal and then type in python3 and then hit Enter. Use exit() or Ctrl-D (i.e. EOF) to exit. 
+
+To run Python scripts with the python command, you need to open a command-line and type in the word python3 followed by the path to your script like python3 hello.py
+
+Sometimes it’s useful to save the output of a script for later analysis. Here’s how you can do that: python3 hello.py > output.txt
+
